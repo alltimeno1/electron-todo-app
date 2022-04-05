@@ -55,7 +55,7 @@ body {
 }
 
 .inputField input:focus {
-  border-color: #8E49E8;
+  border-color: cadetblue;
 }
 
 .inputField button {
