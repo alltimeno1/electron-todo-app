@@ -9,7 +9,8 @@
 
 ::selection {
   color: #ffff;
-  background: rgb(142, 73, 232);
+  background: cadetblue;
+  opacity: 0.5;
 }
 
 body {
