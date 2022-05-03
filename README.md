@@ -12,4 +12,4 @@ $ npm install
 ```
 $ npm run make
 ```
-4. run file "./out/Todoapp/Todoapp"
+4. run "./out/Todoapp/Todoapp"
